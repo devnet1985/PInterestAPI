@@ -1,0 +1,8 @@
+C:\Users\deepak\source\repos\PInterestProject\PInterestClient\bin\Debug\PInterestClient.dll
+C:\Users\deepak\source\repos\PInterestProject\PInterestClient\bin\Debug\PInterestClient.pdb
+C:\Users\deepak\source\repos\PInterestProject\PInterestClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\deepak\source\repos\PInterestProject\PInterestClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\deepak\source\repos\PInterestProject\PInterestClient\obj\Debug\PInterestClient.csprojResolveAssemblyReference.cache
+C:\Users\deepak\source\repos\PInterestProject\PInterestClient\obj\Debug\PInterestClient.csproj.CoreCompileInputs.cache
+C:\Users\deepak\source\repos\PInterestProject\PInterestClient\obj\Debug\PInterestClient.dll
+C:\Users\deepak\source\repos\PInterestProject\PInterestClient\obj\Debug\PInterestClient.pdb
